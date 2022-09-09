@@ -14,7 +14,7 @@ try:
     print("Enter a sentence")
     input_txt = input()
     input_txt_list = input_txt.split()
-    print("Sentence lis is:")
+    print("Sentence list is:")
     print(input_txt_list)
 except Exception as error:
     print(f"Error occured inside the program\n:Please find the error details:{error}")
