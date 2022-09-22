@@ -55,4 +55,4 @@
     ```
 - Login as s3-admin-users to view the restriction of s3 bucket
   
-  ![](documents/s3-policy.png)
+  <img src="documents/s3-policy.png">
