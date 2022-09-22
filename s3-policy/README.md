@@ -55,4 +55,4 @@
     ```
 - Login as s3-admin-users to view the restriction of s3 bucket
   
-   <img src="documents/s3-policy.png" width="800" />
+   <img src="./documents/s3-policy.png" width="800" />
