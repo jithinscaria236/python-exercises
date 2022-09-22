@@ -54,4 +54,4 @@
     }
     ```
 - Login as s3-admin-users to view the restriction of s3 bucket
-  ![aws-console-view](/documents/s3-policy.jpg)
+  ![](/documents/s3-policy.jpg)
